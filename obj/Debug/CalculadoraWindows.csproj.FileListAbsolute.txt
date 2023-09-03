@@ -1,0 +1,11 @@
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe.config
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.exe
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\bin\Debug\CalculadoraWindows.pdb
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.AssemblyReference.cache
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.SuggestedBindingRedirects.cache
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Calculadora.resources
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.Properties.Resources.resources
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.exe
+C:\Users\drluc\OneDrive\Área de Trabalho\CalculadoraWindows\CalculadoraWindows\obj\Debug\CalculadoraWindows.pdb
